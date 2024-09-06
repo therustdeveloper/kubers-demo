@@ -1,3 +1,3 @@
 # Kubers Demo
 
-- Kubernetes Management with Rus
+- Kubernetes Management with Rust
